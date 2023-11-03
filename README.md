@@ -1,9 +1,9 @@
-# Vision Learning survey of CNN and pretrained models Keras:
+# Vision Learning survey of CNN & pretrained models Keras:
 A survey of DL vision models
 
 
 <br>
-Here is my Facial emotion recognition project.  Be sure to look for my FastAI version, too! This technology has a wide range of applications, including in healthcare, marketing, and gaming.
+Here is my Facial emotion recognition project.  Be sure to look for my FastAI version, too. This technology has a wide range of applications, including in healthcare, marketing, and gaming.
 <br>
 The project involves using machine learning algorithms to detect emotions from facial expressions. Trained from a dataset of a wide range of facial expressions, using TensorFlow. TensorFlow is an open-source machine learning framework that allows developers to build and deploy machine learning models. 
 <br>
